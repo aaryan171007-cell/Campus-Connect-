@@ -2,7 +2,7 @@
 
 A modern, responsive campus information dashboard built with **React + Vite**, featuring a rich UI with dark mode, animations, and full search & filter functionality.
 
-# Live Production URL : 
+**Live Production URL** : https://campus-connect-teal-nine.vercel.app/
 
 ---
 
