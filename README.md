@@ -13,17 +13,17 @@ A modern, responsive campus information dashboard built with **React + Vite**, f
 
 ### Installation
 
-# Navigate to the project directory
+## Navigate to the project directory
 ```bash
 cd campus-dashboard
 ```
 
-# Install dependencies
+## Install dependencies
 ```bash
 npm install
 ```
 
-# Start the development server
+## Start the development server
 ```bash
 npm run dev
 ```
